@@ -178,7 +178,7 @@
     <string name="sensor_calibration_current_data_hint">Dati sensore attuali: </string>
     <string name="sensor_calibration_sensor_data_hint">Dati calibrazione sensore: </string>
 
-    <string name="gyroscope_axis_switch">Switch up/down on vertical axis</string>
+    <string name="gyroscope_axis_switch">Invertire assi verticali up/down</string>
 
     <!-- BandMode  Start -->
     <string name="query_result">Richiesta non riuscita</string>
@@ -344,7 +344,7 @@
     <string name="status_bar_summary">Modifica aspetto e comportamento della barra di stato</string>
 
     <string name="quick_pulldown_title">Quick pulldown</string>
-    <string name="quick_pulldown_summary">Trascinare %1$s bordo della barra di stato per aprire Quick Settings</string>
+    <string name="quick_pulldown_summary">Trascinare %1$s bordo della barra di stato per aprire pannello quick Settings</string>
     <string name="quick_pulldown_summary_left">Sinistra</string>
     <string name="quick_pulldown_summary_right">Destra</string>
     <string name="quick_pulldown_off">Non attivo</string>
@@ -357,16 +357,16 @@
 
     <!-- ScrollSettings -->
     <string name="scroll_settings_title">Impostazioni Scrolling</string>
-    <string name="scroll_settings_summary">Cambia attrito e velocità di lancio</string>
-    <string name="scroll_enabled_switch_title">(Dis)attiva impostazioni scroll</string>
-    <string name="scroll_friction_title">Attrito scroll</string>
-    <string name="custom_fling_velocity_title">Velocità di Scroll e lancio</string>
-    <string name="scroll_friction_summary">Livello di attrito applicato a scrolls e lancio</string>
-    <string name="custom_fling_velocity_summary">Velocità massima per avviare un lancio</string>
+    <string name="scroll_settings_summary">Cambia attrito e velocità di spostamento</string>
+    <string name="scroll_enabled_switch_title">(Dis)attiva impostazioni scrolling</string>
+    <string name="scroll_friction_title">Attrito scrolling</string>
+    <string name="custom_fling_velocity_title">Velocità di scrolling e spostamento</string>
+    <string name="scroll_friction_summary">Livello di attrito applicato a scrolling e spostamento</string>
+    <string name="custom_fling_velocity_summary">Velocità massima per avviare uno spostamento</string>
 
     <!-- Longpress Power torch -->
     <string name="long_press_power_for_torch_title">Pressione prolungata tasto accensione per attivare la torcia</string>
-    <string name="long_press_power_for_torch_summary">La pressione prolungata del tasto accensione a schermo spento accende e spegne la torcia</string>
+    <string name="long_press_power_for_torch_summary">La pressione prolungata del tasto accensione a schermo spento accende o spegne la torcia</string>
 
     <string name="idle_stats_title">Statistiche di inattività</string>
 
@@ -419,7 +419,7 @@
     <string name="nav_pixel_nav_summary">Attiva pulsante home in stile pixel</string>
 
     <string name="navigation_bar_can_move_title">Muovi barra navigazione se il telefono viene ruotato</string>
-    <string name="navigation_bar_can_move_summary">Se è attivato, in caso di rotazione la barra navigazione viene spostata al lato dello schermo</string>
+    <string name="navigation_bar_can_move_summary">Se attivato, in caso di rotazione la barra navigazione viene spostata al lato dello schermo</string>
 
     <string name="navbar_style_dimen_title">Dimensioni barra navigazione</string>
     <string name="navbar_dimensions_reset_message">Ripristina tutti i valori ai livelli di default?</string>
@@ -450,11 +450,11 @@
     <string name="navigation_bar_background_title">Colore sfondo barra di navigazione</string>
 
     <!-- SlimDim -->
-    <string name="dim_nav_buttons_category_title">Attenuamento barra di navigazione</string>
-    <string name="dim_nav_buttons_category_summary">Opzioni attenuamento barra di navigazione in caso di inattività</string>
+    <string name="dim_nav_buttons_category_title">Attenuazione barra di navigazione</string>
+    <string name="dim_nav_buttons_category_summary">Opzioni attenuazione barra di navigazione in caso di inattività</string>
     <string name="dim_nav_buttons_title">Attenua pulsanti in caso di inattività</string>
     <string name="dim_nav_buttons_summary">Attenua pulsanti barra di navigazione dopo uno specifico periodo di inattività</string>
-    <string name="dim_nav_buttons_timeout_title">Timeout prima dell\'attenuamento</string>
+    <string name="dim_nav_buttons_timeout_title">Timeout prima dell\'attenuazione</string>
     <string name="dim_nav_buttons_timeout_summary">Periodo (in millisecondi) prima di attenuare i pulsanti</string>
     <string name="dim_nav_buttons_alpha_title">Attenuamento alpha</string>
     <string name="dim_nav_buttons_alpha_summary">Valore Alpha di attenuamento pulsanti</string>
@@ -463,7 +463,7 @@
     <string name="dim_nav_buttons_animate_duration_title">Durata animazione</string>
     <string name="dim_nav_buttons_animate_duration_summary">Durata(in millisecondi) dell\'animanzione alpha</string>
 
-    <string name="dim_nav_buttons_touch_anywhere_title">Risposta ai tocchi su tutto lo schermo</string>
+    <string name="dim_nav_buttons_touch_anywhere_title">Risposta ai tocchi sullo schermo</string>
     <string name="dim_nav_buttons_touch_anywhere_summary_on">Tocca qualunque parte dello schermo per far riapparire i pulsanti</string>
     <string name="dim_nav_buttons_touch_anywhere_summary_off">Tocca esclusivamente la barra di navigazione per far riapparire i pulsanti</string>
 
@@ -511,7 +511,7 @@
 
     <!-- double tap statusbar to sleep -->
     <string name="double_tap_to_sleep_title">Doppio tocco per modalità sleep</string>
-    <string name="double_tap_to_sleep_summary">Doppio tocco sulla barra di stato per porre il device in modalità sleep</string>
+    <string name="double_tap_to_sleep_summary">Doppio tocco sulla barra di stato per porre il telefono in modalità sleep</string>
 
     <!-- Brightness control -->
     <string name="status_bar_toggle_brightness">Controllo luminosità</string>
