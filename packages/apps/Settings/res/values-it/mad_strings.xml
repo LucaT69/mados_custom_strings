@@ -935,5 +935,58 @@
 
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Sblocco rapido</string>
-    <string name="unlock_quick_unlock_control_summary">Sblocca automaticamente non appena il PIN corretto è stato inserito (senza premere "OK")\nNote: funziona solo con PIN a 4 cifre!</string>
+    <string name="unlock_quick_unlock_control_summary">Sblocca automaticamente non appena il PIN corretto è stato inserito (senza premere "OK")\nNote: funziona solo se il seguente numero di cifre è inserito corettamente!</string>
+    <string name="lockscreen_quick_unlock_pin_length_title">Totale cifre del PIN</string>
+    <string name="lockscreen_quick_unlock_pin_length_summary">Per consentire il funzionamento dello sblocco rapido, inserisci la lunghezza del PIN (numero di cifre).</string>
+    
+    <!-- Immersive recents -->
+    <string name="immersive_recents_title">Modalità recenti immersiva</string>
+    <string name="immersive_recents_default">Default</string>
+    <string name="immersive_recents_fullscreen">A tutto schermo</string>
+    <string name="immersive_recents_statusbar">Solo barra di stato</string>
+    <string name="immersive_recents_navbar">Solo barra di navigazione</string>
+
+    <!-- Recent clear all button and location -->
+    <string name="show_clear_all_recents_button_title">Clear all FAB</string>
+    <string name="show_clear_all_recents_button_summary_on">Mostra chiudi tutto (FAB)</string>
+    <string name="show_clear_all_recents_button_summary_off">Mostra chiudi tutto (AOSP)</string>
+    <string name="recents_clear_all_location_title">Clear all FAB location</string>
+    <string name="recents_clear_all_location_top_right">In alto a destra</string>
+    <string name="recents_clear_all_location_top_left">In alyo a sinistra</string>
+    <string name="recents_clear_all_location_top_center">In alto al centro</string>
+    <string name="recents_clear_all_location_bottom_right">In basso a destra</string>
+    <string name="recents_clear_all_location_bottom_left">In basso a sinistra</string>
+    <string name="recents_clear_all_location_bottom_center">In basso al centro</string>
+
+    <!-- Wakelock blocker -->
+    <string name="wakelock_blocker_title">Blocco Wakelock</string>
+    <string name="wakelock_blocker_summary">Blocco wakelocks di sistema</string>
+    <string name="wakelock_blocker_save">Salva</string>
+    <string name="wakelock_list_header">Wakelocks disponibili</string>
+    <string name="wakelock_blocker_reload">Ricarica</string>
+    <string name="wakelock_blocker_warning_title">Prosegui con cautela</string>
+    <string name="wakelock_blocker_warning">Bloccando i wakelocks potresti causare instabilità, errori o perdita di dati</string>
+
+    <!-- Alarm blocker -->
+    <string name="alarm_blocker">Blocco allarme</string>
+    <string name="alarm_blocker_title">Attiva</string>
+    <string name="alarm_blocker_summary">Blocca allarme se lo schermo è spento</string>
+    <string name="alarm_blocker_save">Salva</string>
+    <string name="alarm_list_header">Allarmi disponibili</string>
+    <string name="alarm_blocker_reload">Ricarica</string>
+    <string name="alarm_blocker_warning_title">Procedi con cautela</string>
+    <string name="alarm_blocker_warning">Bloccando gli allarmi potresti causare instabilità, errori o perdita di dati</string>
+
+    <!-- Buttons Misc -->
+    <string name="mad_buttons_settings">Opzioni pulsanti</string>
+    <string name="mad_buttons_settings_summary">Opzioni pulsanti, scegli azioni e altre impostazioni</string>
+
+    <!-- Gestures Misc -->
+    <string name="mad_gestures_settings">Gesture rapide</string>
+    <string name="mad_gestures_settings_summary">Gesture rapide per controllare il telefono</string>
+
+    <!-- Bluetooth status -->
+    <string name="bluetooth_battery_title">Mostra stato batteria Bluetooth</string>
+    <string name="bluetooth_battery_summary">Mostra stato batteria del dispositivo bluetooth attualmente connesso, se disponibile.</string>
+
 </resources>
